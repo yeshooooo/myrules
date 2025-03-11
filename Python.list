@@ -10,5 +10,5 @@ DOMAIN-SUFFIX,pypi.io
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,python.org
 DOMAIN-SUFFIX,pythonhosted.org
-# 新增 pip
+# 新增 pytorch
 DOMAIN-SUFFIX,pytorch.org
