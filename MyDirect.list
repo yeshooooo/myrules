@@ -1,11 +1,11 @@
 # 个人直连
 # emby
-DOMAIN-SUFFIX,p.once.im
-DOMAIN-SUFFIX,g.once.im
-DOMAIN-SUFFIX,cn-music.mefun.vip
-DOMAIN-SUFFIX,sptv.ii00.cc
-DOMAIN-SUFFIX,sgtv.ii00.cc
+DOMAIN,p.once.im
+DOMAIN,g.once.im
+DOMAIN,cn-music.mefun.vip
+DOMAIN,sptv.ii00.cc
+DOMAIN,sgtv.ii00.cc
 # pic
-DOMAIN-SUFFIX,pic.ixtd.com
-DOMAIN-SUFFIX,www.ixtd.com
-DOMAIN-SUFFIX,ixtd.com
+DOMAIN,pic.ixtd.com
+DOMAIN,www.ixtd.com
+DOMAIN,ixtd.com
